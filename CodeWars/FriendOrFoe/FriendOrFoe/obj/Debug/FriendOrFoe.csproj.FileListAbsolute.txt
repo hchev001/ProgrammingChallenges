@@ -1,0 +1,8 @@
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/bin/Debug/FriendOrFoe.exe
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/bin/Debug/FriendOrFoe.pdb
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/bin/Debug/nunit.framework.dll
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/bin/Debug/nunit.framework.xml
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/obj/Debug/FriendOrFoe.csprojResolveAssemblyReference.cache
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/obj/Debug/FriendOrFoe.csproj.CoreCompileInputs.cache
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/obj/Debug/FriendOrFoe.exe
+/Users/hamiltonchevez/Git/ProgrammingChallenges/CodeWars/FriendOrFoe/FriendOrFoe/obj/Debug/FriendOrFoe.pdb
